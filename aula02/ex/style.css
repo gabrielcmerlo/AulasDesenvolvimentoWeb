@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    padding: 0px 340px 0px 340px;
+}
+
+#titulo {
+    font-weight: 1500px;
+    text-shadow: 2px 3px rgba(0, 0, 0, 0.151);
+}
+
+h1 {
+    font: 49px "Inter", sans-serif;
+}
+
+#texto {
+    padding: 0px 0px 50px 0px;
+}
+
+.palavra {
+    color: #0075FF;
+}
+
+footer {
+    color: #0075FF;
+}
+
+p {
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+a {
+    color: #0075FF;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0px 20px 0px 20px;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+}
