@@ -1,0 +1,43 @@
+body {
+    font-family: 'Opens Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#imagem {
+    width: 592px;
+    margin: 0 auto 18px;
+
+    /* margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 72px;
+    margin-left: auto; */
+}
+
+#imagem > img {
+    width: 500px;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+
+    margin-bottom: 32px;
+}
+
+h1 > span {
+    color: #0075FF;
+    font-weight: bold;
+}
+
+span, a {
+    color: #0075FF;
+}
+
+p, #footer {
+    color: gray;
+    font-size: 14px;
+    line-height: 28px;
+}
